@@ -27,12 +27,15 @@
 }
 .cat1{
     background-color: orange;
+    box-shadow: 5px 5px 10px lightgray;
 }
 .cat2{
     background-color: orchid;
+    box-shadow: 5px 5px 10px lightgray;
 }
 .cat3{
     background-color: blue;
+    box-shadow: 5px 5px 10px lightgray;
 }
 .categories h1{
     color: white;
