@@ -1,5 +1,6 @@
 .container{
     margin-bottom: 100px;
+    border-radius: 10px;
 }
 .orange-bg{
     background-color: #fceae8;
@@ -7,6 +8,7 @@
 }
 .carousel-item{
     padding: 20px 40px;
+    border-radius: 20px;
 }
 .price{
     color: #FF136F;
@@ -40,12 +42,13 @@
 }
 .card{
     border: none;
-    border-radius: 10px;
+    border-radius: 15px;
     box-shadow: 5px 5px 10px lightgray;
 }
 .card-footer{
     background-color: white;
     border-top: none;
+    border-radius: 20px;
 }
 #subscribe{
     height: 300px;
